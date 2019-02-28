@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81b6eb10-4b8c-4a39-b2ee-1cf64fd4e326" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/FavoritePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/FavoritePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/SearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/listener/Listener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/listener/Listener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/FavoritePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/FavoritePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/SearchPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/listener/Listener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/listener/Listener.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,63 +23,12 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pages/FavoritePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testCases/HomePageTestCase.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utils/BasePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testCases/LoginTestCase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testCases/FavoritePageTestCase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/ui/FluentWait.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="120" selection-start-line="120" selection-end-line="120" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pages/SearchPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="-18">
+              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,21 +46,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pages/LoginPage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/utils/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/utils/BasePage.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/SearchPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="293">
+              <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,11 +74,59 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/testCases/SearchPageTestCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="354">
+              <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/listener/Listener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/FavoritePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="124" selection-start-line="124" selection-end-line="124" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testCases/FavoritePageTestCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testCases/LoginTestCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -154,12 +162,12 @@
         <option value="$PROJECT_DIR$/src/main/java/testCaseFunction/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/testCases/HomePageTestCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/HomePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/utils/BasePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/testCases/LoginTestCase.java" />
-        <option value="$PROJECT_DIR$/src/test/java/listener/Listener.java" />
-        <option value="$PROJECT_DIR$/src/test/java/utils/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/testCases/SearchPageTestCase.java" />
         <option value="$PROJECT_DIR$/src/test/java/testCases/FavoritePageTestCase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utils/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/listener/Listener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/BasePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/SearchPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/FavoritePage.java" />
       </list>
@@ -253,6 +261,14 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="testCases" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="N11TestCaseProject-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="N11TestCaseProject-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -264,7 +280,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551215796193" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551384644306" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -397,39 +413,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FavoritePageTestCase - 2019.02.26 at 23h 37m 31s.xml">
+    <history-entry file="FavoritePageTestCase - 2019.02.28 at 22h 45m 33s.xml">
       <configuration name="FavoritePageTestCase" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FavoritePageTestCase - 2019.02.26 at 23h 44m 09s.xml">
+    <history-entry file="FavoritePageTestCase - 2019.02.28 at 22h 46m 28s.xml">
       <configuration name="FavoritePageTestCase" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FavoritePageTestCase - 2019.02.26 at 23h 45m 12s.xml">
+    <history-entry file="FavoritePageTestCase - 2019.02.28 at 22h 47m 49s.xml">
       <configuration name="FavoritePageTestCase" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FavoritePageTestCase - 2019.02.26 at 23h 45m 35s.xml">
+    <history-entry file="FavoritePageTestCase - 2019.02.28 at 22h 48m 50s.xml">
       <configuration name="FavoritePageTestCase" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FavoritePageTestCase - 2019.02.26 at 23h 46m 59s.xml">
+    <history-entry file="FavoritePageTestCase - 2019.02.28 at 22h 49m 38s.xml">
       <configuration name="FavoritePageTestCase" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FavoritePageTestCase - 2019.02.26 at 23h 48m 36s.xml">
+    <history-entry file="FavoritePageTestCase - 2019.02.28 at 22h 50m 48s.xml">
       <configuration name="FavoritePageTestCase" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FavoritePageTestCase - 2019.02.26 at 23h 48m 55s.xml">
+    <history-entry file="FavoritePageTestCase - 2019.02.28 at 22h 52m 33s.xml">
       <configuration name="FavoritePageTestCase" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FavoritePageTestCase - 2019.02.26 at 23h 56m 37s.xml">
+    <history-entry file="FavoritePageTestCase - 2019.02.28 at 22h 53m 58s.xml">
       <configuration name="FavoritePageTestCase" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FavoritePageTestCase - 2019.02.26 at 23h 57m 16s.xml">
+    <history-entry file="FavoritePageTestCase - 2019.02.28 at 23h 00m 11s.xml">
       <configuration name="FavoritePageTestCase" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FavoritePageTestCase - 2019.02.26 at 23h 57m 53s.xml">
+    <history-entry file="FavoritePageTestCase - 2019.02.28 at 23h 01m 03s.xml">
       <configuration name="FavoritePageTestCase" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9548000" />
+    <option name="totallyTimeSpent" value="19392000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -441,21 +457,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="947" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="959" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2967033" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3284553" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.79318184" weight="0.3275862" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4969697" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.79318184" visible="true" weight="0.32756633" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4969697" weight="0.39907727" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924242" weight="0.3284553" />
@@ -463,8 +478,8 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.20681818" side_tool="true" weight="0.3284553" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.345977" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -473,6 +488,8 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2931818" />
@@ -511,15 +528,21 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/pages/FavoritePage.java</url>
-          <line>24</line>
+          <line>25</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/pages/SearchPage.java</url>
-          <line>66</line>
+          <url>file://$PROJECT_DIR$/src/main/java/pages/FavoritePage.java</url>
+          <line>44</line>
           <properties />
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/SearchPage.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -554,54 +577,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testCases/SearchTestCase.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/listener/Listener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/By.class" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/ui/Select.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="454" selection-start-line="454" selection-end-line="454" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/utils/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="74" column="49" selection-start-line="74" selection-start-column="49" selection-end-line="74" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/ui/FluentWait.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="120" selection-start-line="120" selection-end-line="120" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/utils/BasePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -612,27 +594,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testCases/LoginTestCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testCases/SearchPageTestCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/ui/WebDriverWait.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/ui/FluentWait.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/SuiteRunnerWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#2034#2035#0" expanded="true" />
+            <element signature="e#2120#2121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="453" selection-start-line="453" selection-end-line="453" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/listener/Listener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -643,10 +664,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testCases/LoginTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/SearchPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="293">
+          <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testCases/SearchPageTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utils/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -655,8 +705,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testCases/FavoritePageTestCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="338">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -665,11 +715,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/FavoritePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="128">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
         </state>
       </provider>
     </entry>

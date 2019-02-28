@@ -41,13 +41,13 @@ public class Listener extends BaseTest implements ITestListener {
 
     @Override
     public void onStart(ITestContext ıTestContext) {
-        driver= new ChromeDriver();
+       driver= new ChromeDriver();
 
     }
 
     @Override
     public void onFinish(ITestContext ıTestContext) {
-        //driver.quit();
+        driver.quit();
 
     }
 }

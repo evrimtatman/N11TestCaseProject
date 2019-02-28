@@ -17,7 +17,8 @@ public class FavoritePage extends BasePage {
     By addFavoriteBy = By.id("addToFavouriteWishListBtn");
     By myAccountBy = By.xpath("//*[@id=\"header\"]/div/div/div[2]/div[2]/div[2]/div[1]/a[1]");
     By accountWishListBy = By.xpath("//*[@id=\"header\"]/div/div/div[2]/div[2]/div[2]/div[2]/div/a[2]");
-    By addedProductName = By.className("productName");
+    By getAccountWishListBy= By.className("column wishListColumn");
+
 
 
     public FavoritePage addFavorite() {
@@ -28,17 +29,29 @@ public class FavoritePage extends BasePage {
         waitVisibility(addFavoriteBy);
         click(addFavoriteBy);
         driver.navigate().refresh();
-        readText(addedProductName);
+
 
         return this;
     }
 
     public FavoritePage checkFavorites() {
-        click(myAccountBy);
-        click(accountWishListBy);
+//test
+        driver.navigate().to("https://www.n11.com/hesabim/favorilerim");
+
+        WebElement wishList=driver.findElement(By.className("pro"));
+
+        List<WebElement> list=wishList.findElements(By.xpath("//*[@href]"));
+        for(WebElement e : list){
+            String link = e.getAttribute("href");
+            if(!e.getTagName().equals("link"))
+            {System.out.println(e.getTagName() + "=" + link);}
+
+        }
         return this;
     }
+
 }
+
 
 
 

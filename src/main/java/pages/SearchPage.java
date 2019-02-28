@@ -25,6 +25,8 @@ public class SearchPage extends BasePage {
     //By chooseProductBy = By.xpath("//*[@id=\"p-242058259\"]/div[1]");
     //By  chooseProductBy = By.cssSelector("#view > ul > li:nth-child(3)");
     By chooseProductBy = By.xpath("//*[@id=\"view\"]/ul/li[3]");
+    //get product name
+    By addedProductName = By.className("proName");
 
     //*********Page Methods*********
 //search the product on Homepage
@@ -68,7 +70,11 @@ public class SearchPage extends BasePage {
         List<WebElement> productList=productUrl.findElements(By.tagName("li"));
         WebElement productDiv=productList.get(4).findElement(By.tagName("div"));
         List<WebElement>hrefList=productDiv.findElements(By.tagName("a"));
-        driver.navigate().to(hrefList.get(0).getAttribute("href"));
+        String selectedProductUrl=hrefList.get(0).getAttribute("href");
+        driver.navigate().to(selectedProductUrl);
+        String productName = readText(addedProductName);
+        System.out.println(productName);
+        System.out.println(selectedProductUrl);
         return this;
     }
 
